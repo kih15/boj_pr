@@ -12,16 +12,17 @@ for _ in range(N):
         female[Y] += 1
     else:
         male[Y] += 1
-
+count = 0
 for i in range(1, 6+1):
     if female[i] % K == 0:
-        female[i] = female[i] // K
+        count += female[i] // K
     else:
-        female[i] = (female[i] // K) + 1
+        count += (female[i] // K) + 1
 
     if male[i] % K == 0:
-        male[i] = male[i] // K
-    else:
-        male[i] = (male[i] // K) + 1
+        count += male[i] // K
 
-print(sum(female) + sum(male))
+    else:
+        count += (male[i] // K) + 1
+
+print(count)
