@@ -11,5 +11,6 @@ for i in arr:
         continue
     if stack[-1] < arr[i]:
         line += str(stack.pop())
+        
     stack.append(i)
     print(line)
