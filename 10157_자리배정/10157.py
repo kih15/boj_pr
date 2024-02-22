@@ -19,7 +19,7 @@ else:
     while num <= K:
         ni = i + di[direct]
         nj = j + dj[direct]
-        if 0 <= ni < C and 0 <= nj < R and arr[ni][nj] == 0:
+        if 0 <= ni <= C and 0 <= nj <= R and arr[ni][nj] == 0:
 
             i = ni
             j = nj
@@ -29,4 +29,6 @@ else:
         else:
             direct = (direct+1) % 4
 
-    print(i+1, j+1)
+print(arr)
+
+print(i+2, j-2)
