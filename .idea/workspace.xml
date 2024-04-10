@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d274da45-b0c3-451b-8ef0-cc16d58b366f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/백준 스터디.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B/.idea/새 폴더 (2).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B/B2/25305_커트라인/25305.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B/B2/25305_커트라인/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B/B2/2587_대표값2/2587.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B/B2/2587_대표값2/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B/B3/.idea/B3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B/B3/10810_공넣기/10810.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B/B3/10810_공넣기/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B/bj_2231_분해합/.idea/bj_2231_분해합.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S/.idea/S.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S/S3/12789_도키도키간식/12789.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S/S3/12789_도키도키간식/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S/S4/.idea/S4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S/S4/10773_제로/10773.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S/S4/10773_제로/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S/S4/1302_베스트셀러/1302.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S/S4/1302_베스트셀러/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S/S4/28278_스택2/28278.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S/S4/28278_스택2/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S/S4/4949_균형잡힌세상/4949.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S/S4/4949_균형잡힌세상/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S/S5/2751_수정렬하기2/2751.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S/S5/2751_수정렬하기2/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/새 폴더 (2).iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/10039_평균점수/10039.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/10039_평균점수/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1009_분산처리/1009.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1009_분산처리/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/10157_자리배정/10157.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/10157_자리배정/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/10158_개미/10158.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/10158_개미/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/10163_색종이/10163.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/10163_색종이/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1075_나누기/1075.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/10807_개수세기/10807.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/10807_개수세기/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/10809_알파벳찾기/10809.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/10809_알파벳찾기/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/10813_공바꾸기/10813.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/10813_공바꾸기/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/10814_나이순정렬/10814.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/10814_나이순정렬/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/10817_세수/10817.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/10818_최소최대/10818.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/10818_최소최대/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/10870_피보나치수5/10870.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/10951_A+B-4/10951.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/10951_A+B-4/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/10988_팰린드롬/10988.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/10988_팰린드롬/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/10989_수정렬하기3/10989.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/10989_수정렬하기3/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/11050_이항계수1/11050.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/11399_ATM/11399.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/11399_ATM/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1152_단어의개수/1152.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1152_단어의개수/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/11651_좌표정렬하기2/11651.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/11651_좌표정렬하기2/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/11718_그대로출력하기/11718.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/11718_그대로출력하기/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/11721_열개씩끊어/11721.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/11721_열개씩끊어/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1244_스위치/1244.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1244_스위치/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1260_DFS와BFS/1260.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1260_DFS와BFS/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1264_모음의개수/1264.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1264_모음의개수/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1271_엄청난부자2/1271.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1436_영화감독숌/1436.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1436_영화감독숌/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1463_1로만들기/1463.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1463_1로만들기/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1485_정사각형/1485.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1485_정사각형/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/15552_빠른A+B/15552.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/15552_빠른A+B/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1712_손익분기점/1712.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1876_튕기는볼링공/1876.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1876_튕기는볼링공/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2338_긴자리계산/2338.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2420_사파리월드/2420.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2441_별찍기4/2441.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2442_별찍기5/2442.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2475_검증수/2475.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/25314_코딩은체육과목/25314.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/25314_코딩은체육과목/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2562_최댓값/2562.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2562_최댓값/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2563_색종이/2563.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2563_색종이/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2578_빙고/2578.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2578_빙고/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2581_소수/2581.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2609_최대공약수와최소공배수/2609.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2609_최대공약수와최소공배수/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2628_종이자르기/2628_종이자르기.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2628_종이자르기/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2669_직사각형면적합/2669.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2669_직사각형면적합/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2675_문자열반복/2675.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2675_문자열반복/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2738_행렬덧셈/2738.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2738_행렬덧셈/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2744_대소문자바꾸기/2744.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2744_대소문자바꾸기/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2747_피보나치수/2747.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2747_피보나치수/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2752_세수정렬/2752.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2775_부녀회장/2775.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2775_부녀회장/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/27866_문자와문자열/27866.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2839_설탕배달/2839.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2869_달팽이는올라/2869.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2869_달팽이는올라/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2920_음계/2920.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3052_나머지/3052.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3052_나머지/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4344_평균은넘겠지/4344.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4344_평균은넘겠지/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5597_과제안내신분/5597.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5597_과제안내신분/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8958_OX퀴즈/8958.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8958_OX퀴즈/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/9086_문자열/9086.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/9086_문자열/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/9095_123더하기/9095.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/9095_123더하기/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bj_1259_팰린드롬수/1259.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bj_1259_팰린드롬수/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bj_14696_딱지놀이/14696.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bj_14696_딱지놀이/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bj_1546_평균/1546.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bj_1546_평균/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bj_15829_hash/15829.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bj_15829_hash/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bj_1978_소수찾기/1978.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bj_1978_소수찾기/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bj_2231_분해합/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bj_2231_분해합/.idea/bj_2231_분해합.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bj_2231_분해합/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bj_2231_분해합/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bj_2231_분해합/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bj_2231_분해합/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bj_2231_분해합/2231.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bj_2231_분해합/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bj_2292_벌집/2292.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bj_2292_벌집/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bj_2309_일곱난쟁이/2309.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bj_2309_일곱난쟁이/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bj_2605_줄세우기/2605.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bj_2605_줄세우기/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bj_2635_수이어가기/2635.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bj_2635_수이어가기/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bj_2798_블랙잭/2798.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bj_2798_블랙잭/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bj_4153_직각삼각형/bj_직각삼각형.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bj_4153_직각삼각형/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bj__13300_방배정/13300.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bj__13300_방배정/input.txt" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="2eu6BCRVz7m1QrbVegoxs0aJPtj" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.10989.executor": "Run",
+    "Python.25305.executor": "Run",
+    "Python.2587.executor": "Run",
+    "Python.2751.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\김일호\Desktop\백준 스터디\B\B1" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.10989">
+    <configuration name="10989" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="백준 스터디" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/B/B1/10989_수정렬하기3" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/B/B1/10989_수정렬하기3/10989.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="25305" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="백준 스터디" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/B/B2/25305_커트라인" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/B/B2/25305_커트라인/25305.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="2587" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="백준 스터디" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/B/B2/2587_대표값2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/B/B2/2587_대표값2/2587.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="2751" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="백준 스터디" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/S/S5/2751_수정렬하기2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/S/S5/2751_수정렬하기2/2751.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.10989" />
+        <item itemvalue="Python.2751" />
+        <item itemvalue="Python.2587" />
+        <item itemvalue="Python.25305" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-5a2391486177-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.13763.11" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d274da45-b0c3-451b-8ef0-cc16d58b366f" name="Changes" comment="" />
+      <created>1712741977562</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1712741977562</updated>
+    </task>
+    <servers />
+  </component>
+</project>
