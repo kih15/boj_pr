@@ -110,7 +110,7 @@
       <recent name="C:\Users\김일호\Desktop\백준 스터디\B\B5" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.2606">
+  <component name="RunManager" selected="Python.7568">
     <configuration name="1018" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="백준 스터디" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -195,7 +195,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="2798_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="7568" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="백준 스터디" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -203,11 +203,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/B/B2/2798_블랙잭" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/S/S5/7568_덩치" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/B/B2/2798_블랙잭/2798_2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/S/S5/7568_덩치/7568.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -218,11 +218,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.7568" />
         <item itemvalue="Python.2606" />
         <item itemvalue="Python.1991" />
         <item itemvalue="Python.1018" />
         <item itemvalue="Python.1065" />
-        <item itemvalue="Python.2798_2" />
       </list>
     </recent_temporary>
   </component>
