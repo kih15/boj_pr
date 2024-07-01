@@ -5,73 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d274da45-b0c3-451b-8ef0-cc16d58b366f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/B/B1/12833_XORXOR/12833.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B/B1/12833_XORXOR/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B/B1/30189_경우의수의합/30189.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B/B1/30189_경우의수의합/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B/B2/11816_8,10,16진수/11816.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B/B2/11816_8,10,16진수/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B/B2/18406_럭키스트레이트/18406.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B/B2/18406_럭키스트레이트/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B/B2/2798_블랙잭/2798_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B/B2/5211_가단조다장조/5211.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B/B2/5211_가단조다장조/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B/B3/1284_집주소/1284.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B/B3/1284_집주소/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B/B3/25904_클레오파트라/25904.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B/B3/25904_클레오파트라/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B/B3/3047_ABC/3047.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B/B3/3047_ABC/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B/B4/10101_삼각형외우기/10101.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B/B4/10101_삼각형외우기/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B/B4/2845_파티가끝나고/2845.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B/B4/2845_파티가끝나고/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B/B4/31495_그게무슨코드니/31495.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B/B4/31495_그게무슨코드니/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B/B5/25311_UCPC에서가장쉬운/25311.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B/B5/25311_UCPC에서가장쉬운/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B/B5/4999_아!/4999.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B/B5/4999_아!/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B/B5/5522_카드게임/5522.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B/B5/5522_카드게임/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/G/1918_후위표기식/1918.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/G/1918_후위표기식/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/S/1018_체스판다시칠하기/1018.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/S/1018_체스판다시칠하기/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/S/11866_요세푸스문제/11866.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/S/11866_요세푸스문제/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/S/S1/1149_RGB거리/1149.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/S/S1/1149_RGB거리/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/S/S1/1932_정수삼각형/1932.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/S/S1/1932_정수삼각형/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/S/S1/2156_포도주시식/2156.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/S/S1/2156_포도주시식/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/S/S1/2178_미로탐색/2178.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/S/S1/2178_미로탐색/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/S/S2/11053_가장긴증가하는부분수열/11053.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/S/S2/11053_가장긴증가하는부분수열/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/S/S2/1260_DFS와BFS/1260.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/S/S2/1260_DFS와BFS/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/S/S2/1912_연속합/1912.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/S/S2/1912_연속합/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/S/S3/2108_통계학/2108.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/S/S3/2108_통계학/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/S/S4/1065_한수/1065.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/S/S4/1065_한수/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/S/S4/10845_큐/10845.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/S/S4/10845_큐/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/S/S4/10866_덱/10866.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/S/S4/10866_덱/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/S/S4/2164_카드2/2164.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/S/S4/2164_카드2/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/S/S5/4673_셀프넘버/4673.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/S/S5/4673_셀프넘버/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/S/S5/5555_반지/5555.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/S/S5/5555_반지/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/S/S5/8979_올림픽/8979.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/S/S5/8979_올림픽/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B/B1/11557_양조장/11557.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B/B1/11557_양조장/input.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/B/B2/2798_블랙잭/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/B/B2/2798_블랙잭/input.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -110,7 +46,7 @@
       <recent name="C:\Users\김일호\Desktop\백준 스터디\B\B5" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.7568">
+  <component name="RunManager" selected="Python.11557">
     <configuration name="1018" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="백준 스터디" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -132,7 +68,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="1065" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="11557" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="백준 스터디" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -140,11 +76,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/S/S4/1065_한수" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/B/B1/11557_양조장" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/S/S4/1065_한수/1065.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/B/B1/11557_양조장/11557.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -218,11 +154,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.11557" />
         <item itemvalue="Python.7568" />
         <item itemvalue="Python.2606" />
         <item itemvalue="Python.1991" />
         <item itemvalue="Python.1018" />
-        <item itemvalue="Python.1065" />
       </list>
     </recent_temporary>
   </component>
